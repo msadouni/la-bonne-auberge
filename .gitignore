@@ -1,0 +1,7 @@
+.htaccess
+config/core.php
+config/database.php
+tmp/**/*
+webroot/.htaccess
+webroot/index.php
+webroot/test.php
